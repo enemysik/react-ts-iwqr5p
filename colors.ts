@@ -1,0 +1,32 @@
+export const colors = [
+  // '#ff68dd',
+  // '#69bc29',
+  // '#ff7c3c',
+  // 'orange',
+  // 'blue',
+  // 'red',
+  // 'whiteblue',
+
+  '#696969',
+  '#2e8b57',
+  '#800000',
+  '#808000',
+  '#8b008b',
+  '#ff0000',
+  '#ffa500',
+  '#7fff00',
+  '#00fa9a',
+  '#4169e1',
+  '#00ffff',
+  '#00bfff',
+  '#0000ff',
+  '#ff00ff',
+  '#ffff54',
+  '#dda0dd',
+  '#ff1493',
+  '#ffa07a',
+  '#fffacd',
+  '#000000',
+];
+
+// https://mokole.com/palette.html
